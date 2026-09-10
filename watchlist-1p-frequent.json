@@ -1,0 +1,1282 @@
+{
+  "seller_statuses": [
+    "ingame"
+  ],
+  "items": [
+    {
+      "name": "Acceltra Prime Receiver",
+      "slug": "acceltra_prime_receiver",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Afentis Prime Barrel",
+      "slug": "afentis_prime_barrel",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Afuris Prime Link",
+      "slug": "afuris_prime_link",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Akarius Prime Link",
+      "slug": "akarius_prime_link",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Akbolto Prime Barrel",
+      "slug": "akbolto_prime_barrel",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Akbolto Prime Link",
+      "slug": "akbolto_prime_link",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Akbronco Prime Link",
+      "slug": "akbronco_prime_link",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Akjagara Prime Link",
+      "slug": "akjagara_prime_link",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Akjagara Prime Receiver",
+      "slug": "akjagara_prime_receiver",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Aklex Prime Blueprint",
+      "slug": "aklex_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Akmagnus Prime Link",
+      "slug": "akmagnus_prime_link",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Aksomati Prime Barrel",
+      "slug": "aksomati_prime_barrel",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Akstiletto Prime Link",
+      "slug": "akstiletto_prime_link",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Akstiletto Prime Receiver",
+      "slug": "akstiletto_prime_receiver",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Akvasto Prime Link",
+      "slug": "akvasto_prime_link",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Alternox Prime Barrel",
+      "slug": "alternox_prime_barrel",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Ash Prime Blueprint",
+      "slug": "ash_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Ash Prime Neuroptics Blueprint",
+      "slug": "ash_prime_neuroptics_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Astilla Prime Blueprint",
+      "slug": "astilla_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Astilla Prime Stock",
+      "slug": "astilla_prime_stock",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Athodai Prime Receiver",
+      "slug": "athodai_prime_receiver",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Atlas Prime Chassis Blueprint",
+      "slug": "atlas_prime_chassis_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Atlas Prime Systems Blueprint",
+      "slug": "atlas_prime_systems_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Ballistica Prime Receiver",
+      "slug": "ballistica_prime_receiver",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Ballistica Prime String",
+      "slug": "ballistica_prime_string",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Ballistica Prime Upper Limb",
+      "slug": "ballistica_prime_upper_limb",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Banshee Prime Blueprint",
+      "slug": "banshee_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Baruuk Prime Chassis Blueprint",
+      "slug": "baruuk_prime_chassis_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Baza Prime Barrel",
+      "slug": "baza_prime_barrel",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Bo Prime Handle",
+      "slug": "bo_prime_handle",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Boar Prime Barrel",
+      "slug": "boar_prime_barrel",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Boltor Prime Receiver",
+      "slug": "boltor_prime_receiver",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Braton Prime Receiver",
+      "slug": "braton_prime_receiver",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Bronco Prime Barrel",
+      "slug": "bronco_prime_barrel",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Burston Prime Barrel",
+      "slug": "burston_prime_barrel",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Caliban Prime Blueprint",
+      "slug": "caliban_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Cedo Prime Barrel",
+      "slug": "cedo_prime_barrel",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Cernos Prime Blueprint",
+      "slug": "cernos_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Cobra & Crane Prime Blade",
+      "slug": "cobra_and_crane_prime_blade",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Cobra & Crane Prime Blueprint",
+      "slug": "cobra_and_crane_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Corinth Prime Receiver",
+      "slug": "corinth_prime_receiver",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Corvas Prime Blueprint",
+      "slug": "corvas_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Dakra Prime Blueprint",
+      "slug": "dakra_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Destreza Prime Blueprint",
+      "slug": "destreza_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Dethcube Prime Carapace",
+      "slug": "dethcube_prime_carapace",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Dual Kamas Prime Handle",
+      "slug": "dual_kamas_prime_handle",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Dual Keres Prime Handle",
+      "slug": "dual_keres_prime_handle",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Ember Prime Systems Blueprint",
+      "slug": "ember_prime_systems_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Epitaph Prime Barrel",
+      "slug": "epitaph_prime_barrel",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Equinox Prime Blueprint",
+      "slug": "equinox_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Equinox Prime Neuroptics Blueprint",
+      "slug": "equinox_prime_neuroptics_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Euphona Prime Barrel",
+      "slug": "euphona_prime_barrel",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Frost Prime Systems Blueprint",
+      "slug": "frost_prime_systems_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Fulmin Prime Blueprint",
+      "slug": "fulmin_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Fulmin Prime Stock",
+      "slug": "fulmin_prime_stock",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Galatine Prime Handle",
+      "slug": "galatine_prime_handle",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Gara Prime Chassis Blueprint",
+      "slug": "gara_prime_chassis_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Gara Prime Neuroptics Blueprint",
+      "slug": "gara_prime_neuroptics_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Garuda Prime Chassis Blueprint",
+      "slug": "garuda_prime_chassis_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Gauss Prime Neuroptics Blueprint",
+      "slug": "gauss_prime_neuroptics_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Glaive Prime Blade",
+      "slug": "glaive_prime_blade",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Glaive Prime Disc",
+      "slug": "glaive_prime_disc",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Gram Prime Blueprint",
+      "slug": "gram_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Grendel Prime Chassis Blueprint",
+      "slug": "grendel_prime_chassis_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Guandao Prime Blueprint",
+      "slug": "guandao_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Gunsen Prime Handle",
+      "slug": "gunsen_prime_handle",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Gyre Prime Blueprint",
+      "slug": "gyre_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Gyre Prime Chassis Blueprint",
+      "slug": "gyre_prime_chassis_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Harrow Prime Blueprint",
+      "slug": "harrow_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Harrow Prime Neuroptics Blueprint",
+      "slug": "harrow_prime_neuroptics_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Helios Prime Blueprint",
+      "slug": "helios_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Helios Prime Systems",
+      "slug": "helios_prime_systems",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Hildryn Prime Chassis Blueprint",
+      "slug": "hildryn_prime_chassis_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Hildryn Prime Neuroptics Blueprint",
+      "slug": "hildryn_prime_neuroptics_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Hydroid Prime Blueprint",
+      "slug": "hydroid_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Hydroid Prime Neuroptics Blueprint",
+      "slug": "hydroid_prime_neuroptics_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Hystrix Prime Blueprint",
+      "slug": "hystrix_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Inaros Prime Blueprint",
+      "slug": "inaros_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Inaros Prime Chassis Blueprint",
+      "slug": "inaros_prime_chassis_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Ivara Prime Blueprint",
+      "slug": "ivara_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Ivara Prime Systems Blueprint",
+      "slug": "ivara_prime_systems_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Karyst Prime Handle",
+      "slug": "karyst_prime_handle",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Kavasa Prime Band",
+      "slug": "kavasa_prime_band",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Kavasa Prime Kubrow Collar Blueprint",
+      "slug": "kavasa_prime_kubrow_collar_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Kestrel Prime Blueprint",
+      "slug": "kestrel_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Khora Prime Chassis Blueprint",
+      "slug": "khora_prime_chassis_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Knell Prime Receiver",
+      "slug": "knell_prime_receiver",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Kogake Prime Blueprint",
+      "slug": "kogake_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Kompressa Prime Receiver",
+      "slug": "kompressa_prime_reciever",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Kronen Prime Handle",
+      "slug": "kronen_prime_handle",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Larkspur Prime Receiver",
+      "slug": "larkspur_prime_receiver",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Larkspur Prime Stock",
+      "slug": "larkspur_prime_stock",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Lavos Prime Blueprint",
+      "slug": "lavos_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Lavos Prime Neuroptics Blueprint",
+      "slug": "lavos_prime_neuroptics_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Limbo Prime Blueprint",
+      "slug": "limbo_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Loki Prime Chassis Blueprint",
+      "slug": "loki_prime_chassis_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Mag Prime Chassis Blueprint",
+      "slug": "mag_prime_chassis_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Magnus Prime Receiver",
+      "slug": "magnus_prime_receiver",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Masseter Prime Blueprint",
+      "slug": "masseter_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Mesa Prime Blueprint",
+      "slug": "mesa_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Mirage Prime Systems Blueprint",
+      "slug": "mirage_prime_systems_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Nagantaka Prime Receiver",
+      "slug": "nagantaka_prime_receiver",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Nagantaka Prime Stock",
+      "slug": "nagantaka_prime_stock",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Nami Skyla Prime Handle",
+      "slug": "nami_skyla_prime_handle",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Nautilus Prime Systems",
+      "slug": "nautilus_prime_systems",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Nekros Prime Neuroptics Blueprint",
+      "slug": "nekros_prime_neuroptics_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Nezha Prime Blueprint",
+      "slug": "nezha_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Nidus Prime Blueprint",
+      "slug": "nidus_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Ninkondi Prime Chain",
+      "slug": "ninkondi_prime_chain",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Nova Prime Blueprint",
+      "slug": "nova_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Nyx Prime Systems Blueprint",
+      "slug": "nyx_prime_systems_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Oberon Prime Blueprint",
+      "slug": "oberon_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Octavia Prime Chassis Blueprint",
+      "slug": "octavia_prime_chassis_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Odonata Prime Blueprint",
+      "slug": "odonata_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Okina Prime Handle",
+      "slug": "okina_prime_handle",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Orthos Prime Blade",
+      "slug": "orthos_prime_blade",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Orthos Prime Blueprint",
+      "slug": "orthos_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Pandero Prime Barrel",
+      "slug": "pandero_prime_barrel",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Pangolin Prime Blade",
+      "slug": "pangolin_prime_blade",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Panthera Prime Stock",
+      "slug": "panthera_prime_stock",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Paris Prime Grip",
+      "slug": "paris_prime_grip",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Perigale Prime Receiver",
+      "slug": "perigale_prime_receiver",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Phantasma Prime Blueprint",
+      "slug": "phantasma_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Protea Prime Neuroptics Blueprint",
+      "slug": "protea_prime_neuroptics_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Pyrana Prime Receiver",
+      "slug": "pyrana_prime_receiver",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Quassus Prime Blueprint",
+      "slug": "quassus_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Reaper Prime Blade",
+      "slug": "reaper_prime_blade",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Redeemer Prime Blueprint",
+      "slug": "redeemer_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Revenant Prime Neuroptics Blueprint",
+      "slug": "revenant_prime_neuroptics_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Revenant Prime Systems Blueprint",
+      "slug": "revenant_prime_systems_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Rhino Prime Neuroptics Blueprint",
+      "slug": "rhino_prime_neuroptics_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Rubico Prime Stock",
+      "slug": "rubico_prime_stock",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Sarofang Prime Blueprint",
+      "slug": "sarofang_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Saryn Prime Neuroptics Blueprint",
+      "slug": "saryn_prime_neuroptics_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Scindo Prime Blueprint",
+      "slug": "scindo_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Scourge Prime Handle",
+      "slug": "scourge_prime_handle",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Sevagoth Prime Blueprint",
+      "slug": "sevagoth_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Shade Prime Blueprint",
+      "slug": "shade_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Shade Prime Systems",
+      "slug": "shade_prime_systems",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Silva & Aegis Prime Blade",
+      "slug": "silva_and_aegis_prime_blade",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Silva & Aegis Prime Blueprint",
+      "slug": "silva_and_aegis_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Soma Prime Receiver",
+      "slug": "soma_prime_receiver",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Stradavar Prime Barrel",
+      "slug": "stradavar_prime_barrel",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Strun Prime Barrel",
+      "slug": "strun_prime_barrel",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Strun Prime Stock",
+      "slug": "strun_prime_stock",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Styanax Prime Chassis Blueprint",
+      "slug": "styanax_prime_chassis_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Styanax Prime Systems Blueprint",
+      "slug": "styanax_prime_systems_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Sybaris Prime Receiver",
+      "slug": "sybaris_prime_receiver",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Tatsu Prime Blade",
+      "slug": "tatsu_prime_blade",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Tekko Prime Blueprint",
+      "slug": "tekko_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Tenora Prime Stock",
+      "slug": "tenora_prime_stock",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Tigris Prime Barrel",
+      "slug": "tigris_prime_barrel",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Tigris Prime Receiver",
+      "slug": "tigris_prime_receiver",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Tipedo Prime Ornament",
+      "slug": "tipedo_prime_ornament",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Titania Prime Blueprint",
+      "slug": "titania_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Titania Prime Neuroptics Blueprint",
+      "slug": "titania_prime_neuroptics_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Trinity Prime Blueprint",
+      "slug": "trinity_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Trinity Prime Chassis Blueprint",
+      "slug": "trinity_prime_chassis_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Trumna Prime Stock",
+      "slug": "trumna_prime_stock",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Vadarya Prime Barrel",
+      "slug": "vadarya_prime_barrel",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Vadarya Prime Receiver",
+      "slug": "vadarya_prime_receiver",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Valkyr Prime Neuroptics Blueprint",
+      "slug": "valkyr_prime_neuroptics_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Vasto Prime Blueprint",
+      "slug": "vasto_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Vectis Prime Blueprint",
+      "slug": "vectis_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Velox Prime Blueprint",
+      "slug": "velox_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Venato Prime Blueprint",
+      "slug": "venato_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Venka Prime Blueprint",
+      "slug": "venka_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Volnus Prime Head",
+      "slug": "volnus_prime_head",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Volt Prime Chassis Blueprint",
+      "slug": "volt_prime_chassis_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Volt Prime Systems Blueprint",
+      "slug": "volt_prime_systems_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Voruna Prime Chassis Blueprint",
+      "slug": "voruna_prime_chassis_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Wisp Prime Neuroptics Blueprint",
+      "slug": "wisp_prime_neuroptics_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Wukong Prime Chassis Blueprint",
+      "slug": "wukong_prime_chassis_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Wukong Prime Systems Blueprint",
+      "slug": "wukong_prime_systems_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Wyrm Prime Systems",
+      "slug": "wyrm_prime_systems",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Xaku Prime Chassis Blueprint",
+      "slug": "xaku_prime_chassis_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Xaku Prime Systems Blueprint",
+      "slug": "xaku_prime_systems_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Zakti Prime Barrel",
+      "slug": "zakti_prime_barrel",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Zhuge Prime Blueprint",
+      "slug": "zhuge_prime_blueprint",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Zhuge Prime Receiver",
+      "slug": "zhuge_prime_receiver",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Zylok Prime Receiver",
+      "slug": "zylok_prime_receiver",
+      "max_platinum": 1,
+      "min_quantity": 2,
+      "ducats": 45
+    },
+    {
+      "name": "Lex Prime Set",
+      "slug": "lex_prime_set",
+      "max_platinum": 1,
+      "min_quantity": 1,
+      "ducats": 55,
+      "min_ducats_per_platinum": 30
+    }
+  ]
+}

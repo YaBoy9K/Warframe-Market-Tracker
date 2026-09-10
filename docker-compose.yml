@@ -1,0 +1,26 @@
+services:
+  market-tracker:
+    build: .
+    container_name: warframe-market-tracker
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      WATCHLIST_PATH: /app/watchlist.json
+      MARKET_STATE_PATH: /app/data/market-state.json
+    volumes:
+      - ./watchlist.json:/app/watchlist.json:ro
+      - ./data:/app/data
+    command: ["python", "-u", "market_tracker.py"]
+
+  mission-tracker:
+    build: .
+    container_name: warframe-mission-tracker
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      MISSION_STATE_PATH: /app/data/mission-state.json
+    volumes:
+      - ./data:/app/data
+    command: ["python", "-u", "mission_tracker.py"]
